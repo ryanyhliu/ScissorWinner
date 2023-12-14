@@ -1,9 +1,9 @@
 const cacheName = "Y.Liu331@liverpool.ac.uk-RockPaperScissors-1.9";
 const contentToCache = [
-    "Build/V2.0.0.loader.js",
-    "Build/V2.0.0.framework.js",
-    "Build/V2.0.0.data",
-    "Build/V2.0.0.wasm",
+    "Build/V2.0.1.loader.js",
+    "Build/V2.0.1.framework.js",
+    "Build/V2.0.1.data",
+    "Build/V2.0.1.wasm",
     "TemplateData/style.css"
 
 ];
