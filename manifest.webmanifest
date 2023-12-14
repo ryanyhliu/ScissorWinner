@@ -1,6 +1,6 @@
 {
-    "name": "RockPaperScissors",
-    "short_name": "RockPaperScissors",
+    "name": "ScissorWinner",
+    "short_name": "ScissorWinner",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
