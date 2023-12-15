@@ -1,9 +1,9 @@
-const cacheName = "Y.Liu331@liverpool.ac.uk-ScissorWinner-2.2.1";
+const cacheName = "Y.Liu331@liverpool.ac.uk-ScissorWinner-2.2.2";
 const contentToCache = [
-    "Build/V2.2.1.loader.js",
-    "Build/V2.2.1.framework.js",
-    "Build/V2.2.1.data",
-    "Build/V2.2.1.wasm",
+    "Build/V2.2.2.loader.js",
+    "Build/V2.2.2.framework.js",
+    "Build/V2.2.2.data",
+    "Build/V2.2.2.wasm",
     "TemplateData/style.css"
 
 ];
